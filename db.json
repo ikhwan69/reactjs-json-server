@@ -1,0 +1,94 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Ikhwanul Rahman",
+            "alamat": "Komp Purikartika Baru Jl Jambu Blok J7 No.14 Rt 002/009 Kel. Tajur Kec. Ciledug Tangerang",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 2,
+            "nama": "Muhammad Firli",
+            "alamat": "Komp Purikartika Baru Jl Jambu Blok J7 No.14 Rt 002/009 Kel. Tajur Kec. Ciledug Tangerang",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 3,
+            "nama": "Eko Siswanto",
+            "alamat": "Komp Purikartika Baru Jl Jambu Blok J7 No.14 Rt 002/009 Kel. Tajur Kec. Ciledug Tangerang",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 4,
+            "nama": "Miftha Giyanti Putri",
+            "alamat": "Komp Purikartika Baru Jl Jambu Blok J7 No.14 Rt 002/009 Kel. Tajur Kec. Ciledug Tangerang",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 5,
+            "nama": "Rio Ernest",
+            "alamat": "Komp Purikartika Baru Jl Jambu Blok J7 No.14 Rt 002/009 Kel. Tajur Kec. Ciledug Tangerang",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 6,
+            "nama": "Muhammad Syahroni",
+            "alamat": "Tangerang Selatan",
+            "umur": 30,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 7,
+            "nama": "Anisa Nurul Anjani",
+            "alamat": "Jakarta Utara",
+            "umur": 28,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 8,
+            "nama": "Yusuf Nasution",
+            "alamat": "Jakarta Timur",
+            "umur": 27,
+            "noHp": "082114208479"
+          }, {
+            "id": 9,
+            "nama": "Ari Anugraha",
+            "alamat": "Jakarta Utara",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 10,
+            "nama": "Faldi Ramadhan",
+            "alamat": "Tangerang Selatan",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 11,
+            "nama": "Ahmad Abi Mulya",
+            "alamat": "Depok",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 12,
+            "nama": "Fathur Ramadhan",
+            "alamat": "Jakarta Selatan",
+            "umur": 27,
+            "noHp": "082114208479"
+          },
+          {
+            "id": 13,
+            "nama": "Faldi Ramadhan",
+            "alamat": "Tangerang Selatan",
+            "umur": 27,
+            "noHp": "082114208479"
+          }
+    ]
+}
